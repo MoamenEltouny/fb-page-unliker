@@ -11,7 +11,7 @@
 let tries = 0;
 
 function unlike() {
-    let item = document.querySelector('.l9j0dhe7.du4w35lb.j83agx80.pfnyh3mw.taijpn5t.bp9cbjyn.owycx6da.btwxx1t3.kt9q3ron.ak7q8e6j.isp2s0ed.ri5dt5u2.rt8b4zig.n8ej3o3l.agehan2d.sk4xxmp2.rq0escxv.tdjehn4e.tv7at329.hv4rvrfc.dati1w0a');
+    let item = document.querySelectorAll('[aria-label="More actions"]')
 
     if (item) {
         item.click();
