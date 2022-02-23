@@ -4,6 +4,7 @@
 -----
 ##### STEPS
 - https://www.facebook.com/pages/?category=liked
+- Use facebook in english version.
 - Open the browser console - example: Chrome `CTRL + SHIFT + J`.
 - Copy the code below and past it there then press enter and keep the page opened.
 -----
