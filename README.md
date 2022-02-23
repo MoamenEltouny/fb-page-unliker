@@ -3,6 +3,7 @@
 ###### Author : Raggi
 -----
 ##### STEPS
+- https://www.facebook.com/pages/?category=liked
 - Open the browser console - example: Chrome `CTRL + SHIFT + J`.
 - Copy the code below and past it there then press enter and keep the page open.
 -----
