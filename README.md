@@ -11,7 +11,7 @@
 let tries = 0;
 
 function unlike() {
-    let item = document.querySelectorAll('[aria-label="More actions"]')
+    let item = document.querySelector('[aria-label="More actions"]')
 
     if (item) {
         item.click();
